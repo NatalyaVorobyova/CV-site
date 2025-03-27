@@ -1,0 +1,14 @@
+.main {
+    width: 400px;
+}
+
+.row-full {
+  width: 400px;
+}
+
+.row-half {
+  float: left;
+  display: inline-block;
+  width: 200px;
+  border-bottom: 1px solid black;
+}
